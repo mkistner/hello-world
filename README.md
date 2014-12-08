@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Hi there!
-
-Cheers.
+Hello world!
+This is me.
+Cheers!
